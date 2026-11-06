@@ -1,0 +1,7 @@
+# Chỉ nạp khi tùy chọn "Màn sòng bạc gốc" = Thay bằng bàn cược của mod (mặc định).
+# Bỏ bốn lựa chọn cược gốc, chỉ để một nút rời đi; bàn cược của mod tự mở thế chỗ.
+ev.song_bac_chieu_bac:
+  choices:
+    - text: Rời sòng bạc
+      effects:
+        - log: Ngươi bỏ lại tiếng xúc xắc sau lưng, bước ra khỏi sòng.
